@@ -1,0 +1,7 @@
+@tailwind base;
+.bg-white {
+    background-color: rgba(84, 119, 148, 1);
+}
+
+@tailwind components;
+@tailwind utilities;
